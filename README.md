@@ -35,4 +35,7 @@ A **real-time, web-based** collaborative code editor that allows multiple users 
    # or replace "privateip" with your private IP address (e.g., 10.12.224.106)
    http://privateip:5000
    ```
+## Live Demo
+Check out the live demo of the **frontend and backend deployed application** here: [Live Demo](https://collabrix-code-editor.onrender.com)
+   
 
