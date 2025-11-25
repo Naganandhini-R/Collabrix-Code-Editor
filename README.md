@@ -16,7 +16,7 @@ A **real-time, web-based** collaborative code editor that allows multiple users 
 ### 🔹 Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Naganandhini-R/Collabrix.git
+   git clone https://github.com/Naganandhini-R/Collabrix-Code-Editor.git
    cd Collabrix-Code-Editor
    ```
 2. Create a Docker image:
